@@ -13,7 +13,13 @@
   - Exploring automation tools 🛠️  
   - Science & technology 🧬  
 - 🤝 Let’s build together! 
-- 📬 Reach me: Just drop a message in my inbox – I’d love to connect! 😄  
+- 📬 Reach me: Just drop a message in my inbox – I’d love to connect! 😄
+
+### 💐 Tech Stack
+
+- 🌐 HTML, CSS, JavaScript  
+- 🐍 Python (basic scripting)  
+- 💻 Tools: VS Code, Git & GitHub
 
 ---
 
