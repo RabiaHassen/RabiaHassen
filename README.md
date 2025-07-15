@@ -24,9 +24,23 @@ Fun projects, new skills & collaboration opportunities
 ### 💐 Tech Stack  
 - 🌐 HTML, CSS, JavaScript  
 - 🐍 Python (basic scripting)  
-- 💻 Tools: VS Code, Git & GitHub  
+- 💻 Tools: VS Code, Git & GitHub
 
-> 🌸 *"Code is like poetry — it's better when it's clean, expressive, and makes people smile."* 🌸  
+
+![HTML](https://img.shields.io/badge/HTML-🟣_Learning-9370db)
+![CSS](https://img.shields.io/badge/CSS-🟢_Exploring-98fb98)
+![JavaScript](https://img.shields.io/badge/JavaScript-🟣_In_Progress-9370db)
+![Python](https://img.shields.io/badge/Python-🐍_Basics-90ee90)
+
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-9370db?logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Version_Control-Git-98fb98?logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-9370db?logo=github&logoColor=black)
+
+
+
+---
+
+🌸 *"Code is like poetry — it's better when it's clean, expressive, and makes people smile."* 🌸  
 
 Thanks for stopping by! 🧁
 
