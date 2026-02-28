@@ -1,6 +1,4 @@
-## 🎀 Hello and welcome, I’m Rabia!  
-
-🌸 This is my little corner of GitHub! 🌸  
+## RABIA HASSEN
 
 🌿 Aspiring Data Analyst
 🎓 Bachelor of Information Science  
