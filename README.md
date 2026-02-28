@@ -2,41 +2,54 @@
 
 🌸 This is my little corner of GitHub! 🌸  
 
-👩🏽‍💻 **Aspiring Software Engineer** | Lifelong Learner  
-🌱 Self-taught & always curious about how things work  
-📚 Currently learning **JavaScript** and building up my **front-end skills**  
-
-🔭 **Working on:**  
-Fun projects, new skills & collaboration opportunities  
-
-💡 **Interests:**  
-- UI/UX design & front-end development 📱  
-- Responsive web design & interactivity 💫  
-- Creative problem-solving 🧩  
-- Exploring automation tools 🛠️  
-- Science & technology 🧬  
-
-🤝 Let’s build together!  
-📬 **Reach me:** Just drop a message in my inbox – I’d love to connect! 😄  
+🌿 Aspiring Data Analyst  
+📊 Currently completing the Google Data Analytics Professional Certificate (Coursera)  
+📍 South Africa  
 
 ---
 
-### 💐 Tech Stack  
-- 🌐 HTML, CSS, JavaScript  
-- 🐍 Python (basic scripting)  
-- 💻 Tools: VS Code, Git & GitHub
+## Professional Summary
 
+Detail-oriented and analytical professional transitioning into data analytics with a background in information science and years of experience working with structured systems and information organization.
 
-![HTML](https://img.shields.io/badge/HTML-🟣_Learning-9370db)
-![CSS](https://img.shields.io/badge/CSS-🟢_Exploring-98fb98)
-![JavaScript](https://img.shields.io/badge/JavaScript-🟣_In_Progress-9370db)
-![Python](https://img.shields.io/badge/Python-🐍_Basics-90ee90)
+Skilled in data cleaning, querying, and exploratory analysis. Passionate about transforming raw data into clear, actionable insights that support decision-making.
 
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-9370db?logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Version_Control-Git-98fb98?logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-9370db?logo=github&logoColor=black)
+Currently building a portfolio of case studies demonstrating real-world data analysis workflows from raw data to business recommendations.
 
+---
 
+## 📚 What I’m Learning
+
+- SQL for querying relational databases
+- Data cleaning and transformation  
+- Exploratory Data Analysis (EDA) 
+- Data visualization principles
+- Python for data analysis (pandas)
+- R (through the Google Data Analytics Certificate)
+
+---
+
+## 🛠️ Tools I’m Working With
+
+- SQL  
+- Excel / Google Sheets  
+- Python (beginner)  
+- R (learning)  
+- Git & GitHub
+- VS Code
+- BigQuery  
+
+---
+
+## 🌿 What You’ll Find Here
+
+📁 Practice projects  
+📊 Case studies from the Google Data Analytics Certificate  
+🧠 Notes and experiments as I grow  
+
+---
+
+📬 Always open to learning, collaboration, and entry-level opportunities.
 
 ---
 
