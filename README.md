@@ -2,19 +2,20 @@
 
 🌸 This is my little corner of GitHub! 🌸  
 
-🌿 Aspiring Data Analyst  
+🌿 Aspiring Data Analyst
+🎓 Bachelor of Information Science  
 📊 Currently completing the Google Data Analytics Professional Certificate (Coursera)  
 📍 South Africa  
 
 ---
 
-## Professional Summary
+## 💼 Professional Summary
 
-Detail-oriented and analytical professional transitioning into data analytics with a background in information science and years of experience working with structured systems and information organization.
+Detail-oriented and analytical professional transitioning into data analytics, with a background in information science and experience working with structured systems and information organization.
 
-Skilled in data cleaning, querying, and exploratory analysis. Passionate about transforming raw data into clear, actionable insights that support decision-making.
+Skilled in data cleaning, querying, and exploratory analysis. Passionate about transforming raw data into clear, actionable insights that support informed decision-making.
 
-Currently building a portfolio of case studies demonstrating real-world data analysis workflows from raw data to business recommendations.
+Currently building a portfolio of case studies demonstrating real-world data analysis workflows — from raw data to business recommendations.
 
 ---
 
@@ -31,13 +32,14 @@ Currently building a portfolio of case studies demonstrating real-world data ana
 
 ## 🛠️ Tools I’m Working With
 
-- SQL  
+- SQL
+- BigQuery    
 - Excel / Google Sheets  
 - Python (beginner)  
 - R (learning)  
 - Git & GitHub
 - VS Code
-- BigQuery  
+
 
 ---
 
